@@ -1,5 +1,6 @@
 # Reinforcement-learning-q-learning
-
+* You can watch how author explain his code at site: http://darren1231.pixnet.net/blog/post/336606788-q-learning-%E6%9C%80%E7%B0%A1%E5%96%AE%E8%B5%B0%E8%BF%B7%E5%AE%AE%E7%A8%8B%E5%BC%8F
+* Very good code to learn Reinforcement learning!
 * This is a very simple example to show how q_learning works
 
 * This is the most important formula of q_learning: 
